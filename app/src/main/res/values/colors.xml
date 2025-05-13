@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<resources>-->
+<!--    <color name="primary">#4CAF50</color>-->
+<!--    <color name="primary_dark">#388E3C</color>-->
+<!--    <color name="primary_light">#C8E6C9</color>-->
+<!--    <color name="accent">#FF9800</color>-->
+<!--    <color name="primary_text">#212121</color>-->
+<!--    <color name="secondary_text">#757575</color>-->
+<!--    <color name="white">#FFFFFF</color>-->
+<!--    <color name="black">#000000</color>-->
+<!--    <color name="light_gray">#EEEEEE</color>-->
+<!--</resources>-->
+
+
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#FF9800</color>           <!-- Amber 500 (Bright amber) -->
+    <color name="primary_dark">#F57C00</color>      <!-- Amber 700 (Darker amber) -->
+    <color name="primary_light">#FFCC80</color>     <!-- Amber 200 (Lighter amber) -->
+
+    <!-- Accent / Secondary Colors -->
+    <color name="accent">#FFB74D</color>            <!-- Amber 300 (Soft amber/orange) -->
+    <color name="accent_dark">#FF8F00</color>       <!-- Amber 600 (Darker orange) -->
+    <color name="accent_light">#FFE082</color>      <!-- Amber 100 (Lighter yellow-orange) -->
+
+    <!-- Text Colors -->
+    <color name="primary_text">#FFFFFF</color>      <!-- White text on dark background -->
+    <color name="secondary_text">#CCCCCC</color>    <!-- Lighter gray for secondary text -->
+    <color name="hint_text">#9E9E9E</color>         <!-- Light gray for hint text -->
+
+    <!-- Background Colors -->
+    <color name="white">#121212</color>             <!-- Dark background for night mode -->
+    <color name="black">#FFFFFF</color>             <!-- White (used for text on dark) -->
+    <color name="light_gray">#2A2A2A</color>       <!-- Dark surface color for cards -->
+
+    <!-- Background Colors -->
+    <color name="dark_blue">#0b1721</color> <!-- Dark bluish color -->
+    <color name="blue_surface">#1d344a</color> <!-- Slightly lighter bluish surface -->
+
+
+    <color name="surface_dark">#121212</color>
+    <color name="surface_medium">#1E1E1E</color>
+
+
+
+    <!-- Gradient Button -->
+    <color name="gradient_start">#FF9800</color>    <!-- Amber 500 for start of gradient -->
+    <color name="gradient_end">#c71e07</color>      <!-- Deep orange for the end of gradient -->
+
+
+</resources>

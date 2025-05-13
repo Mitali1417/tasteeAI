@@ -1,0 +1,65 @@
+<!--<resources xmlns:tools="http://schemas.android.com/tools">-->
+<!--    &lt;!&ndash; Base application theme. &ndash;&gt;-->
+<!--    <style name="Theme.RecipeMaker" parent="Theme.MaterialComponents.Light.DarkActionBar">-->
+<!--        &lt;!&ndash; Primary brand color. &ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/primary</item>-->
+<!--        <item name="colorPrimaryVariant">@color/primary_dark</item>-->
+<!--        <item name="colorOnPrimary">@color/white</item>-->
+<!--        &lt;!&ndash; Secondary brand color. &ndash;&gt;-->
+<!--        <item name="colorSecondary">@color/accent</item>-->
+<!--        <item name="colorSecondaryVariant">@color/accent</item>-->
+<!--        <item name="colorOnSecondary">@color/black</item>-->
+<!--        &lt;!&ndash; Status bar color. &ndash;&gt;-->
+<!--        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>-->
+<!--    </style>-->
+<!--</resources>-->
+
+
+
+
+
+<!--<resources xmlns:tools="http://schemas.android.com/tools">-->
+<!--    <style name="Theme.RecipeMaker" parent="Theme.MaterialComponents.DayNight.NoActionBar">-->
+<!--        <item name="colorPrimary">@color/primary</item>-->
+<!--        <item name="colorPrimaryVariant">@color/primary_dark</item>-->
+<!--        <item name="colorOnPrimary">@color/black</item>-->
+
+<!--        <item name="colorSecondary">@color/accent</item>-->
+<!--        <item name="colorSecondaryVariant">@color/accent</item>-->
+<!--        <item name="colorOnSecondary">@color/white</item>-->
+
+<!--        <item name="android:windowBackground">@color/cardview_dark_background</item>-->
+<!--        <item name="colorSurface">@color/cardview_dark_background</item>-->
+<!--        <item name="colorOnSurface">@color/white</item>-->
+<!--        <item name="android:textColorPrimary">@color/white</item>-->
+
+<!--        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>-->
+<!--    </style>-->
+<!--</resources>-->
+
+
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.RecipeMaker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Accent / Secondary -->
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent_dark</item> <!-- Option for a darker accent -->
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:windowBackground">@color/dark_blue</item> <!-- Dark bluish background -->
+        <item name="colorSurface">@color/blue_surface</item>         <!-- Slightly lighter bluish surface -->
+        <item name="colorOnSurface">@color/primary_text</item>        <!-- White text on the dark background -->
+        <item name="android:textColorPrimary">@color/primary_text</item>
+
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
+
+
+

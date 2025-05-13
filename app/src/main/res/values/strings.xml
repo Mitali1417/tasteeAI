@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TasteeAI</string>
+    <string name="hint_ingredients">Enter ingredients (separated by commas)</string>
+    <string name="btn_generate_recipe">Generate Recipe</string>
+    <string name="btn_save_recipe">Save Recipe</string>
+    <string name="btn_voice_input">Voice Input</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_view_saved">Saved Recipes</string>
+    <string name="label_ingredients">Ingredients:</string>
+    <string name="label_instructions">Instructions:</string>
+    <string name="error_empty_ingredients">Please enter some ingredients</string>
+    <string name="error_api">There was an error connecting to the API</string>
+    <string name="success_recipe_saved">Recipe saved successfully</string>
+    <string name="loading_message">Generating recipe…</string>
+    <string name="no_recipes_found">No recipes found for these ingredients</string>
+    <string name="permission_required">Microphone permission is required for voice input</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_share">Share</string>
+    <string name="hero_image_desc">Illustration of recipe generation</string>
+
+</resources> 
